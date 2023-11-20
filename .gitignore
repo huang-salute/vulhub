@@ -35,4 +35,4 @@ __pycache__
 .python-version
 
 electron/CVE-2018-1000006/build/*
-!electron/CVE-2018-1000006/build/index.html
+!electron/CVE-2018-10000068/build/index.html
